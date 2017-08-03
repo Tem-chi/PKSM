@@ -543,7 +543,7 @@ Herunterladen der Zusatzdaten fehlgeschlagen!
 Request Handler Field hinzufügen ist fehlgeschlagen!
 SSLOpt festlegen fehlgeschlagen!
 Start einer http-Anfrage fehlgeschlagen!
-Erhalten eines Statuscodes fehlgeschlagen!
+Erhalten des Statuscodes fehlgeschlagen!
 Weiterleitung fehlgeschlagen!
 Empfang der Downloadgröße fehlgeschlagen!
 Speicherzuweisung fehlgeschlagen!
@@ -552,7 +552,7 @@ Bank-Größe geändert!
 Spielstand-Sicherung erstellt!
 Bank-Sicherung erstellt!
 Exportieren
-Bestätigten für vollständigen Export des Speichers?
+Bestätige Export des Speichers?
 Schritt %d/%d
 PokéDex
 Gefangen: %d
@@ -564,7 +564,7 @@ Drücke X zum eingeben der serveLegality IP Adresse...
 Drücke X um Mithilfe von serveLegality auf Legalität zu prüfen...
 Aufrufen der GitHub APIs...
 Parsen der API Antwort...
-Downloaden der aktuellen Version...
+Download der aktuellen Version...
 Update fehlgeschlagen!
 Hinzufügen des Zertifikat fehlgeschlagen!
 Hinzufügen des request header fehlgeschlagen!
